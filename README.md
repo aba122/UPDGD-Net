@@ -1,4 +1,4 @@
-Code for paper: "Uncertainty-Aware Pseudo-Labeling and Dual Graph Driven Network for Incomplete Multi-View Multi-Label Classification" in ACMMM 2024
+Code for paper: "Uncertainty-Aware Pseudo-Labeling and Dual Graph Driven Network for Incomplete Multi-View Multi-Label Classification" in ACM MM 2024
 
 You can run "python main.py" to train model.
 
